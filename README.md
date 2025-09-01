@@ -1,5 +1,5 @@
 # UnityXR-Captured by the-Eye in the Mirror《鏡收眼底》
-## XR 擴展實境。 [用途 : 作品集]
+### XR 擴展實境。 [用途 : 作品集]
 - Host 端可透過操作向 Client 介紹畫作。
 - Client 在 Host 進行介紹時，可點選解說查看當前畫作的細節。
 - Host 與 Client 必須在同一個內部網路下連線。
